@@ -2,4 +2,4 @@
 my windows terminal config/我的windows terminal配置
 
 #### 简单仿官方示例：
-![alt text](http://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/05/terminal-screenshot.png)
+![alt text](企业微信截图_20190720120210.png)
